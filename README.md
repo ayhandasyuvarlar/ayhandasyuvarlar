@@ -8,12 +8,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  [ayhandasyuvarlar3@gmail.com](ayhandasyuvarlar3@gmail.com)
 - 😄 Pronouns: her
 - ⚡ Fun fact: software code
+
 ##
 ###  Connect with me
 
 <a href="https://www.instagram.com/_theayhan/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3%"></p></a>
 <a href="https://www.linkedin.com/in/ayhan-da%C5%9Fyuvarlar-03a76220a/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3%"></p></a>
 <a href="https://twitter.com/_theayhan"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="3%"></p></a>
+
 
  
 ##
@@ -41,8 +43,7 @@ Here are some ideas to get you started:
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhandasyuvarlar&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vz2bli674cmscgxo7w3eritosu&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31vz2bli674cmscgxo7w3eritosu&redirect=true)
 
 
 
