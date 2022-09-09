@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: software code
 ##
 ###  Connect with me
-<a href="https://www.instagram.com/_theayhan/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="4%"></a>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="4%"> 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="4%">
+<a href="https://www.instagram.com/_theayhan/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3%"></p></a>
+<a href="https://www.linkedin.com/in/ayhan-da%C5%9Fyuvarlar-03a76220a/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3%"></p></a>
+<a href="https://twitter.com/_theayhan"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="3%"></p></a>
+
  
 ##
 ### Languages and Tools:
@@ -29,12 +29,17 @@ Here are some ideas to get you started:
  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="4%">
  <img src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" width="4%">
   <img src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" width="4%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="4%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="4%">
+<img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="4%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="4%">
+
 ##
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ayhandasyuvarlar&show_icons=true&theme=radical)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhandasyuvarlar&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhandasyuvarlar&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
