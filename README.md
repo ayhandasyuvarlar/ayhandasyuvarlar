@@ -1,8 +1,5 @@
 ### Hi there 👋 , my name is Ayhan 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ayhandasyuvarlar) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/_theayhan/) 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack developer
@@ -11,6 +8,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  [ayhandasyuvarlar3@gmail.com](ayhandasyuvarlar3@gmail.com)
 - 😄 Pronouns: her
 - ⚡ Fun fact: software code
+##
+###  Connect with me
+<a href="https://www.instagram.com/_theayhan/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="4%"></a>
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="4%"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="4%">
+ 
 ##
 ### Languages and Tools:
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="4%"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="4%"> 
