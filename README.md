@@ -7,12 +7,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me:  [ayhandasyuvarlar3@gmail.com](ayhandasyuvarlar3@gmail.com)
 - 😄 Pronouns: her
-- ⚡ Fun fact: software code
+- ⚡ Fun fact: software code![a](https://user-images.githubusercontent.com/81258778/190378814-754e3b4e-fc0c-4d23-b8c6-0b08c373d76d.png)
 
 ##
 ###  Connect with me
 
 <a href="https://www.instagram.com/_theayhan/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3%"></p></a>
+
 <a href="https://www.linkedin.com/in/ayhan-da%C5%9Fyuvarlar-03a76220a/"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3%"></p></a>
 <a href="https://twitter.com/_theayhan"><p><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="3%"></p></a>
 
@@ -38,12 +39,11 @@ Here are some ideas to get you started:
 
 ##
 
-
+### ⚙️  GitHub Analytics
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ayhandasyuvarlar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhandasyuvarlar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhandasyuvarlar&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vz2bli674cmscgxo7w3eritosu&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31vz2bli674cmscgxo7w3eritosu&redirect=true)
 
 
 
