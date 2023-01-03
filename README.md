@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Coderbyte-Challenge](https://github.com/ayhandasyuvarlar/coderbyte-js-challenge)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Redux**
 
-- 📝 I regularly write articles on [https://blog-frontend-lyart.vercel.app/](https://blog-frontend-lyart.vercel.app/)
+- 📝 I regularly write articles on [https://myportfolio-delta-seven.vercel.app/](https://myportfolio-delta-seven.vercel.app/)
 
 - 💬 Ask me about **React**
 
