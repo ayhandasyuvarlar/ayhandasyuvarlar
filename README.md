@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- ![coding_2](https://user-images.githubusercontent.com/81258778/190381677-65905110-bed6-48b8-b806-f898b6d089c3.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
