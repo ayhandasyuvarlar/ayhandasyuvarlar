@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **ayhandasyuvarlar3@gmail.com**
+- 📫 How to reach me **ayhandasyuvarlarr@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
