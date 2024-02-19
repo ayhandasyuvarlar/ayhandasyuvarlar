@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhandasyuvarlar&label=Profile%20views&color=0e75b6&style=flat" alt="ayhandasyuvarlar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayhandasyuvarlar" alt="ayhandasyuvarlar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_theayhan" target="blank"><img src="https://img.shields.io/twitter/follow/_theayhan?logo=twitter&style=for-the-badge" alt="_theayhan" /></a> </p>
 
 - 🔭 I’m currently working on [Coderbyte-Challenge](https://github.com/ayhandasyuvarlar/coderbyte-js-challenge)
 
